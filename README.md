@@ -17,8 +17,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielAldiney&show_icons=true" alt="DashboardGitCommit"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAldiney&layout=compact&langs_count=8&theme=vue-light" alt="DashboardGitLang"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielAldiney&show_icons=true" alt="DashboardGitCommit" width="400" height="250"/> 
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAldiney&layout=compact&langs_count=8&theme=vue-light" alt="DashboardGitLang" width="400" height="200"/>
 </p>
 
 <p align="center">
