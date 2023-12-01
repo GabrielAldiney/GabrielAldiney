@@ -22,6 +22,6 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/GabrielAldiney" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="iconLinkdin" height="70" width="70" /></a>&nbsp&nbsp&nbsp
+<a href="https://www.linkedin.com/in/gabriel-aldiney" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="iconLinkdin" height="70" width="70" /></a>&nbsp&nbsp&nbsp
 <a href="mailto:gabrielaldiney@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="iconGmail" height="30" width="30" /></a>
 </p>
